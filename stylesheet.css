@@ -1,0 +1,100 @@
+body{
+	padding: 10px;
+	margin-left: 20px;
+	
+
+}
+h1{
+    color:#90ee90;
+	font-family: arial;
+	text-align: center;
+	font-size: 50px;
+		background-color: white;
+		margin:20px ;
+
+
+}
+#p1{
+	font-family: arial;	
+	background: white;
+	float:left;
+	font-size: 20px;
+	background-image:url("https://i2.wp.com/sustainable291527652.files.wordpress.com/2018/04/g2.jpg?ssl=1&w=450");
+	padding: 30px;
+	margin: 30px;
+}
+p.body{
+	
+	font-family: arial;
+	background: grey;
+	text-align: center;
+	font-size: 15px;
+	height: 60px;
+	overflow: scroll;
+
+}
+a:link {
+	color: grey;
+
+}
+a:visited{
+	color: white;
+
+
+}
+a:hover{
+	color:#90ee90;
+	background-color: white;
+	cursor: url("cursor.ico"),default;
+	
+}
+
+img.imageC{
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+	border-bottom: black;
+}
+.highlight{
+	color: 	darkgreen;
+	background-color: 	#7FFF00;
+}
+#menu{
+display: inline;
+text-align: center;
+margin: 30px;
+}
+.button{
+
+	display: inline;
+	text-decoration: none
+	background:darkgreen;
+	border: 2px solid;
+	border-radius: 4px;
+	height: 30px;
+	margin:10px;
+	padding: 10px;
+
+}
+ul{
+	padding: 0;
+	list-style-type: none;
+}
+li{
+
+	display: inline;
+	text-decoration: none;
+}
+ul li {
+	
+	padding: 10px;
+	margin: 30px;
+
+}
+ul li a{
+
+background:darkgreen;
+	display: inline;
+	text-decoration: none;
+
+}
